@@ -1,0 +1,1 @@
+FBAN/FB4A;FBAV/478.0.0.35.354;FBBV/388427824;FBDM/{density=3.0,width=1080,height=1920};FBLC/ja_JP;FBRV/754629071;FBCR/Airtel;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.MessengerLite;FBDV/RMX3393;FBSV/11;FBOP/4;FBCA/armeabi;]
