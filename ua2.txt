@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/340.0.0.73.385;FBPN/com.facebook.adsmanager;FBLC/fr_FR;FBBV/870653717;FBCR/Airtel;FBMF/OPPO;FBBD/OPPO;FBDV/CPH1945;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]
